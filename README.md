@@ -5,7 +5,7 @@
   <li><a href="https://github.com/suryansh54/git">Git</a></li>
   <li><a href=javascript:;">Bitbucket</a></li>
   <li><a href=javascript:;">Jira</a></li>
-  <li><a href=javascript:;">Confluence</a></li>
+  <li><a href=https://github.com/suryansh54/atlassian-confluence">Confluence</a></li>
 </ul>
 
 #### Deploy
