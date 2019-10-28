@@ -2,14 +2,20 @@
 
 #### Code
 - Git
+- Bitbucket
 - Jira
 - Confluence
 
 #### Deploy
-- AWS
+- AWS (Cloud)
 - Docker
 
 #### Test
 - JUnit
+- Selenium (UI Automation testing) 
 
-<img sec="/assets/image/tools.png" alt="Tools">
+#### Release
+- Jenkins
+
+<img src="/assets/images/tools.png" alt="Tools">
+<img src="/assets/images/DevOps-Infographic-v1.webp" alt="Tools">
